@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 	@Override
-	public void start(Stage primaryStage) { //RAZ and DOR
+	public void start(Stage primaryStage) { //first commit
 		try {
 			BorderPane root = new BorderPane();
 			Scene scene = new Scene(root,400,400);
